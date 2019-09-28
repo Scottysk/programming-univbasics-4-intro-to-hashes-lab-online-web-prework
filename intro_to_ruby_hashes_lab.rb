@@ -40,9 +40,6 @@ else
    hash[key] = 1
 end
   update_counting_hash = {
-    :age => 1,
-    :total => 5,
-    "hello" => 1
   }
 end
 
